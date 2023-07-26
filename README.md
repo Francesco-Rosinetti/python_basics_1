@@ -14,4 +14,4 @@ Diesen Link können Sie gerne auch in der kommenden Woche erneut verwenden.
 
 ### Tag 1: Beispiel Kontaktdaten
 
-Link für Teilnehmende: 
+Link für Teilnehmende: <https://mybinder.org/v2/gh/Francesco-Rosinetti/python_basics_1/HEAD>
